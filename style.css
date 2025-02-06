@@ -57,10 +57,11 @@ p {
 
 @media screen and (max-width: 868px) {
 h1 {
+    font-size: 16px;
     text-align: center;
     color: #fff;
     margin-top: 20px;
-    
+
 }
 
     div {
